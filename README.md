@@ -1,6 +1,17 @@
 # openip.sbs
 [openip.sbs](https://openip.sbs/)
 
+Generate IP Address Image:
+
+<iframe src="https://openip.sbs/img.html" width="215" height="70" frameborder="0" scrolling="no"></iframe>
+            
+
+This will generate an image that displays your current public IP address along with its geographic location. You can easily embed this image in your web pages to visually show users their IP address. The demonstration is as follows, and of course, the image code can be customized as needed.
+Generated IP Address Image:
+
+
+
+
 
 What is OpenIP.sbs?
 
